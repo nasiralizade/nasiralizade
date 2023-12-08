@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 [![Visits Badge](https://badges.pufler.dev/visits/nasiralizade/nasiralizade)](https://github.com/nasiralizade)
-<--
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working 
