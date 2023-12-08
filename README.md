@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-<!--
-**nasiralizade/nasiralizade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+[![Visits Badge](https://badges.pufler.dev/visits/nasiralizade/nasiralizade)](https://github.com/nasiralizade)
+<--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working 
