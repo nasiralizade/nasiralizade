@@ -4,4 +4,5 @@
 </h1>
 <img src="https://komarev.com/ghpvc/?username=nasiralizade&style=flat-square&color=blue" alt=""/><br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nasiralizade&layout=compact&theme=dark)
+
+<![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nasiralizade&layout=compact&theme=dark) 
